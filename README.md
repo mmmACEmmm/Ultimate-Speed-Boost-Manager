@@ -12,7 +12,7 @@ Ultimate Speed Boost Manager is an open-source BepInEx mod for Gorilla Tag that 
 
 ## Installation
 1. Ensure you have BepInEx installed for Gorilla Tag
-2. Download the latest release of Ultimate Speed Boost Manager from the [Releases](https://github.com/yourusername/UltimateSpeedBoostManager/releases) page
+2. Download the latest release of Ultimate Speed Boost Manager from the [Releases](https://github.com/mmmACEmmm/Ultimate-Speed-Boost-Manager/releases/tag/Ultimate-Speed-Boost-Manager) page
 3. Extract the ZIP file
 4. Copy the `UltimateSpeedBoostManager.dll` file into your Gorilla Tag's `BepInEx/plugins` folder
 5. Launch Gorilla Tag and enjoy your new speed boost controls!
